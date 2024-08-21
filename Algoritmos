@@ -1,0 +1,7 @@
+meio = (baixo + alto) / 2
+chute = lista[meio]
+if chute < item:
+    baixo = meio + 1
+
+  def peqsqisa_binaria(lista, item)
+  
